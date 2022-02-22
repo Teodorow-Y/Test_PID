@@ -1,0 +1,372 @@
+18-Dec-21 9:25:01 AM Merging from templet from Emdelen ...
+    Merging PnId ...
+        Merging Blocks ...
+            Add Block CartridgeFrameA0.
+            Add Block CartridgeFrameA1.
+            Add Block CartridgeFrameA2.
+            Add Block CartridgeFrameA3.
+            Add Block REVISIONS_BLOCK_A.
+            Add Block REVISIONS_BLOCK_M.
+            Add Block REVISIONS_BLOCK_0.
+            Add Block REVISIONS_BLOCK_B.
+            Add Block REVISIONS_BLOCK_C.
+            Add Block REVISIONS_BLOCK_D.
+            Add Block REVISIONS_BLOCK_E.
+            Add Block REVISIONS_BLOCK_F.
+            Add Block REVISIONS_BLOCK_G.
+            Add Block REVISIONS_BLOCK_H.
+            Add Block REVISIONS_BLOCK_I.
+            Add Block REVISIONS_BLOCK_J.
+            Add Block REVISIONS_BLOCK_K.
+            Add Block REVISIONS_BLOCK_L.
+            Add Block REVISIONS_BLOCK_N.
+            Add Block REVISIONS_BLOCK_O.
+            Add Block REVISIONS_BLOCK_P.
+            Add Block REVISIONS_BLOCK_Q.
+            Add Block REVISIONS_BLOCK_R.
+            Add Block REVISIONS_BLOCK_S.
+            Add Block REVISIONS_BLOCK_T.
+            Add Block REVISIONS_BLOCK_U.
+            Add Block REVISIONS_BLOCK_V.
+            Add Block REVISIONS_BLOCK_W.
+            Add Block Revision_Annotation.
+            Add Block Frame label_block.
+        Accepting Database Changes ...
+        Saving projSymbolStyle.dwg ...
+    Merging Piping ...
+        Accepting Database Changes ...
+    Merging Iso ...
+        Accepting Database Changes ...
+    Merging Ortho ...
+        Accepting Database Changes ...
+    Merging Misc ...
+        Accepting Database Changes ...
+Merging finished.
+18-Dec-21 10:02:38 AM Merging from templet from Emdelen ...
+    Merging PnId ...
+        Merging Classes ...
+            Add Class Cartridge.
+                Add Attribute BitwiseFlagValue. Value 3.
+                Add Attribute DisplayName. Value Cartridge.
+                Update Property ClassName.
+                    Add Attribute VALUE. Value Cartridge.
+                Update Property Description.
+                    Add Attribute VALUE. Value Cartridge.
+            Add Class Catridge_Frame.
+                Add Attribute BitwiseFlagValue. Value 3.
+                Add Attribute DisplayName. Value Frame.
+                Add Attribute GraphicalStyleName. Value Frame A1.
+                Update Property ClassName.
+                    Add Attribute VALUE. Value Catridge_Frame.
+                Update Property Description.
+                    Add Attribute VALUE. Value Catridge_Frame.
+                Update Property Folio.
+                    Add Attribute DISPLAYNAME. Value Folio.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                    Add Attribute VALUE. Value 1/1.
+                Update Property MainTitle.
+                    Add Attribute DISPLAYNAME. Value MainTitle.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Number.
+                    Add Attribute DISPLAYNAME. Value Number.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Origin.
+                    Add Attribute DISPLAYNAME. Value Origin.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Reference.
+                    Add Attribute DISPLAYNAME. Value Reference.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Revision.
+                    Add Attribute DISPLAYNAME. Value Revision index.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute PICKLISTNAME. Value Revision_Indexes.
+                    Add Attribute TYPE. Value PnPPickListType.
+                    Add Attribute VALUE. Value -.
+                Update Property Scale.
+                    Add Attribute DISPLAYNAME. Value Scale.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                    Add Attribute VALUE. Value -.
+                Update Property Serie.
+                    Add Attribute DISPLAYNAME. Value Serie.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Site.
+                    Add Attribute DISPLAYNAME. Value Site.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Size.
+                    Add Attribute DISPLAYNAME. Value Frame size.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute PICKLISTNAME. Value SSPL$Catridge_Frame_Size.
+                    Add Attribute PICKLISTTYPE. Value SymbolSelect.
+                    Add Attribute TYPE. Value PnPPickListType.
+                    Add Attribute VALUE. Value A1.
+                Update Property Status.
+                    Add Attribute DISPLAYNAME. Value Status.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute PICKLISTNAME. Value PID_Status.
+                    Add Attribute TYPE. Value PnPPickListType.
+                    Add Attribute VALUE. Value -.
+                Update Property TitleL1.
+                    Add Attribute DISPLAYNAME. Value TitleL1.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                    Add Attribute VALUE. Value  .
+                Update Property TitleL2.
+                    Add Attribute DISPLAYNAME. Value TitleL2.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                    Add Attribute VALUE. Value  .
+                Update Property TitleL3.
+                    Add Attribute DISPLAYNAME. Value TitleL3.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                    Add Attribute VALUE. Value  .
+            Add Class Cartridge_Revision_Note.
+                Add Attribute BitwiseFlagValue. Value 3.
+                Add Attribute DisplayName. Value Revision annotation.
+                Add Attribute GraphicalStyleName. Value Revision annotation.
+                Update Property ClassName.
+                    Add Attribute VALUE. Value Cartridge_Revision_Note.
+                Update Property Comment.
+                    Add Attribute DISPLAYNAME. Value Commentaire.
+                Update Property Des.
+                    Add Attribute DISPLAYNAME. Value Designer.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Description.
+                    Add Attribute VALUE. Value Cartridge_Revision_Note.
+                Update Property Modif.
+                    Add Attribute DISPLAYNAME. Value Modification.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property ParamOnLine.
+                    Add Attribute DISPLAYNAME. Value ParamOnLine.
+                Update Property RevDate.
+                    Add Attribute DISPLAYNAME. Value Revision date.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property RevIndex.
+                    Add Attribute DISPLAYNAME. Value Revision Index.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+                Update Property Status.
+                    Add Attribute DISPLAYNAME. Value Status.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute TYPE. Value PnPStringType.
+            Add Class Cartridge_Frame_Revision.
+                Add Attribute BitwiseFlagValue. Value 2.
+                Add Attribute DisplayName. Value Frame revisions.
+                Add Attribute GraphicalStyleName. Value Frame revisions - ND.
+                Update Property ClassName.
+                    Add Attribute VALUE. Value Cartridge_Frame_Revision.
+                Update Property Description.
+                    Add Attribute VALUE. Value Cartridge_Frame_Revision.
+                Update Property DisplayedRevision.
+                    Add Attribute DISPLAYNAME. Value Displayed revision.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute PICKLISTNAME. Value SSPL$Cartridge_Frame_Revision_DisplayedRevision.
+                    Add Attribute PICKLISTTYPE. Value SymbolSelect.
+                    Add Attribute TYPE. Value PnPPickListType.
+                    Add Attribute VALUE. Value A.
+                Update Property ParamOnLine.
+                    Add Attribute DISPLAYNAME. Value ParamOnLine.
+        Merging Acqusition Rules ...
+            Add Acqusition Rule SSPL$Catridge_Frame_Size.
+            Add Acqusition Rule SSPL$Cartridge_Frame_Revision_DisplayedRevision.
+        Merging Acqusition Triggers ...
+            Add Acqusition Trigger Catridge_Frame_SelfTrigger.
+        Merging Selection Lists ...
+            Add Selection List Revision_Indexes.
+                Add Selection Item -.
+                Add Selection Item A.
+                Add Selection Item B.
+                Add Selection Item C.
+                Add Selection Item D.
+                Add Selection Item E.
+                Add Selection Item F.
+                Add Selection Item G.
+                Add Selection Item H.
+                Add Selection Item I.
+                Add Selection Item J.
+                Add Selection Item K.
+                Add Selection Item L.
+                Add Selection Item M.
+                Add Selection Item N.
+                Add Selection Item O.
+                Add Selection Item P.
+                Add Selection Item Q.
+                Add Selection Item R.
+                Add Selection Item S.
+                Add Selection Item T.
+                Add Selection Item U.
+                Add Selection Item V.
+                Add Selection Item W.
+                Add Selection Item X.
+            Add Selection List SSPL$Catridge_Frame_Size.
+                Add Selection Item A0.
+                Add Selection Item A1.
+                Add Selection Item A2.
+                Add Selection Item A3.
+            Add Selection List SSPL$Cartridge_Frame_Revision_DisplayedRevision.
+                Add Selection Item A.
+                Add Selection Item B.
+                Add Selection Item C.
+                Add Selection Item ND.
+            Add Selection List PID_Status.
+                Add Selection Item -.
+                Add Selection Item AS-BUILT DRAWINGS.
+                Add Selection Item PRELIMINARY FOR INFORMATION ONLY.
+                Add Selection Item PRELIMINARY FOR PERMITTING ONLY.
+                Add Selection Item PRELIMINARY FOR REVIEW APPROVAL.
+                Add Selection Item RELEASED FOR CONSTRUCTION.
+        Merging Graphical Styles ...
+            Add Graphical Style Frame A0.
+            Add Graphical Style Frame A1.
+            Add Graphical Style Frame A2.
+            Add Graphical Style Frame A3.
+            Add Graphical Style Frame revisions - A.
+            Add Graphical Style Frame revisions - B.
+            Add Graphical Style Frame revisions - C.
+            Add Graphical Style Frame revisions - D.
+            Add Graphical Style Frame revisions - E.
+            Add Graphical Style Frame revisions - F.
+            Add Graphical Style Frame revisions - G.
+            Add Graphical Style Frame revisions - H.
+            Add Graphical Style Frame revisions - I.
+            Add Graphical Style Frame revisions - J.
+            Add Graphical Style Frame revisions - K.
+            Add Graphical Style Frame revisions - L.
+            Add Graphical Style Frame revisions - M.
+            Add Graphical Style Frame revisions - N.
+            Add Graphical Style Frame revisions - ND.
+            Add Graphical Style Frame revisions - O.
+            Add Graphical Style Frame revisions - P.
+            Add Graphical Style Frame revisions - Q.
+            Add Graphical Style Frame revisions - R.
+            Add Graphical Style Frame revisions - S.
+            Add Graphical Style Frame revisions - T.
+            Add Graphical Style Frame revisions - U.
+            Add Graphical Style Frame revisions - V.
+            Add Graphical Style Frame revisions - W.
+            Add Graphical Style Revision annotation.
+        Merging Annotation Styles ...
+            Add Annotation Style Frame label.
+        Accepting Database Changes ...
+        Saving projSymbolStyle.dwg ...
+        Saving PIP_Metric_PnIdPart.xml ...
+    Merging Piping ...
+        Accepting Database Changes ...
+    Merging Iso ...
+        Accepting Database Changes ...
+    Merging Ortho ...
+        Accepting Database Changes ...
+    Merging Misc ...
+        Accepting Database Changes ...
+Merging finished.
+18-Dec-21 11:14:41 AM Merging from templet from Emdelen ...
+    Merging PnId ...
+        Merging Project Reports ...
+            Add Project Report Line List.
+        Accepting Database Changes ...
+        Saving PIP_Metric_PnIdPart.xml ...
+    Merging Piping ...
+        Accepting Database Changes ...
+    Merging Iso ...
+        Accepting Database Changes ...
+    Merging Ortho ...
+        Accepting Database Changes ...
+    Merging Misc ...
+        Accepting Database Changes ...
+Merging finished.
+21-Dec-21 11:51:05 AM Merging from TemplateSGG ...
+    Merging PnId ...
+        Merging Classes ...
+            Update Class Catridge_Frame.
+                Update Attribute BitwiseFlagValue. Old value 3, new value 2.
+            Update Class Cartridge_Frame_Revision.
+                Add Attribute AnnotationStyleName. Value .
+                Update Attribute GraphicalStyleName. Old value Frame revisions - ND, new value Frame revisions - A.
+                Update Property DisplayedRevision.
+                Add Property Revision.
+                    Add Attribute DISPLAYNAME. Value Displayed revision.
+                    Add Attribute ISNEWCREATION. Value true.
+                    Add Attribute PICKLISTNAME. Value SSPL$Cartridge_Frame_Revision_Revision.
+                    Add Attribute PICKLISTTYPE. Value SymbolSelect.
+                    Add Attribute TYPE. Value PnPPickListType.
+                    Add Attribute VALUE. Value A.
+            Update Class Cartridge_Revision_Note.
+                Update Attribute BitwiseFlagValue. Old value 3, new value 2.
+        Merging Drawing Categories ...
+            Add Drawing Category Revision.
+                Add  Revision.
+                Add  Index.
+        Merging Acqusition Rules ...
+            Add Acqusition Rule SSPL$Cartridge_Frame_Revision_Revision.
+            Remove Acqusition Rule SSPL$Cartridge_Frame_Revision_DisplayedRevision.
+        Merging Acqusition Triggers ...
+            Update Acqusition Trigger Cartridge_Frame_Revision_SelfTrigger.
+        Merging Selection Lists ...
+            Update Selection List Revision_Indexes.
+                Add Selection Item ND.
+            Add Selection List SSPL$Cartridge_Frame_Revision_Revision.
+                Add Selection Item A.
+                Add Selection Item B.
+                Add Selection Item C.
+                Add Selection Item D.
+                Add Selection Item E.
+                Add Selection Item F.
+                Add Selection Item G.
+                Add Selection Item H.
+                Add Selection Item I.
+                Add Selection Item J.
+                Add Selection Item K.
+                Add Selection Item L.
+                Add Selection Item M.
+                Add Selection Item N.
+                Add Selection Item O.
+                Add Selection Item P.
+                Add Selection Item Q.
+                Add Selection Item R.
+                Add Selection Item S.
+                Add Selection Item T.
+                Add Selection Item U.
+                Add Selection Item V.
+                Add Selection Item W.
+        Merging Annotation Styles ...
+            Update Annotation Style Frame label.
+        Merging Blocks ...
+            Update Block PIP FLANGED NOZZLE.
+            Update Block PIP PRIMARY - ACCESSIBLE - DCS.
+            Update Block Valve Label_block.
+            Update Block Equipment Tag_block.
+            Update Block CartridgeFrameA0.
+            Update Block CartridgeFrameA1.
+            Update Block CartridgeFrameA2.
+            Update Block CartridgeFrameA3.
+        Accepting Database Changes ...
+        Saving projSymbolStyle.dwg ...
+        Saving PIP_Metric_PnIdPart.xml ...
+    Merging Piping ...
+        Merging Drawing Categories ...
+            Add Drawing Category Revision.
+                Add  Revision.
+                Add  Index.
+        Accepting Database Changes ...
+    Merging Iso ...
+        Accepting Database Changes ...
+    Merging Ortho ...
+        Merging Drawing Categories ...
+            Add Drawing Category Revision.
+                Add  Revision.
+                Add  Index.
+        Accepting Database Changes ...
+    Merging Misc ...
+        Accepting Database Changes ...
+Merging finished.

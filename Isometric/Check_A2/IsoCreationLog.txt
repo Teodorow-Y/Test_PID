@@ -1,0 +1,6 @@
+﻿INFO    - Loading input: 'F:\EMDELENSGG_PLANT_PID\PLANT PROJECT\TemplateSGG\Isometric\Live Preview\Sample PCF\SampleIsoPreview.pcf'
+INFO    - Loaded '1' model(s).
+INFO    - Processing: 'SAMPLE'.
+WARNING - No break points have been specified.
+INFO    - Model-split has been skipped.
+INFO    - Generated drawing: 'C:\Users\User\AppData\Local\Temp\nfpfavrd.lzn\SAMPLE.dwg'.
